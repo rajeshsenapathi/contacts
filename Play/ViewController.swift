@@ -247,6 +247,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
 }
 extension String {
   var withoutPunctuations: String {
+    print("Rajesh")
     return self.components(separatedBy: CharacterSet.punctuationCharacters).joined(separator: "")
   }
 }
