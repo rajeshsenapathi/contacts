@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B0020DB126C3D04E004B31B2 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0020DB026C3D04E004B31B2 /* SearchViewModel.swift */; };
 		B05E666F26C100B900DC336F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05E666E26C100B900DC336F /* AppDelegate.swift */; };
 		B05E667126C100B900DC336F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05E667026C100B900DC336F /* SceneDelegate.swift */; };
 		B05E667326C100B900DC336F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05E667226C100B900DC336F /* ViewController.swift */; };
@@ -24,7 +23,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B0020DB026C3D04E004B31B2 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
 		B05E666B26C100B900DC336F /* Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Play.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B05E666E26C100B900DC336F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B05E667026C100B900DC336F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 				B05E667926C100BB00DC336F /* LaunchScreen.storyboard */,
 				B05E667C26C100BB00DC336F /* Info.plist */,
 				B0D471A826C12D38003CC1C9 /* File.swift */,
-				B0020DB026C3D04E004B31B2 /* SearchViewModel.swift */,
 				B0FE955D26C18C8200CCAAC3 /* ModelView.swift */,
 				B0FE955F26C18DC200CCAAC3 /* Model.swift */,
 				B0FE956126C1964C00CCAAC3 /* TableViewCell.swift */,
@@ -170,7 +167,6 @@
 				B05E667326C100B900DC336F /* ViewController.swift in Sources */,
 				B09C528426C5615200421CBE /* contacts.swift in Sources */,
 				B0D471A926C12D38003CC1C9 /* File.swift in Sources */,
-				B0020DB126C3D04E004B31B2 /* SearchViewModel.swift in Sources */,
 				B05E666F26C100B900DC336F /* AppDelegate.swift in Sources */,
 				B0FE956026C18DC200CCAAC3 /* Model.swift in Sources */,
 				B05E667126C100B900DC336F /* SceneDelegate.swift in Sources */,
